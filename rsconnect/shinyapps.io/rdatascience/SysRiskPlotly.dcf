@@ -1,0 +1,10 @@
+name: SysRiskPlotly
+account: rdatascience
+server: shinyapps.io
+appId: 97008
+bundleId: 430457
+url: https://rdatascience.shinyapps.io/SysRiskPlotly/
+when: 1461398815.66914
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: AdjacencyMatrix.csv|tab_assets.txt
